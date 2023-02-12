@@ -1,3 +1,8 @@
+Add:
+Evaluation
+run.sh
+
+
 <div align="center">
   <p>
     <a href="https://ultralytics.com/yolov8" target="_blank">
